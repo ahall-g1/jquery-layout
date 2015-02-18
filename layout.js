@@ -3,6 +3,7 @@
  * Copyright (c) 2013 Aaron Hall
  * Wed, 18 Sep 2013 20:18 GMT
  * Licensed MIT
+ * https://github.com/ahall-g1/jquery-layout
  */
 
 (function() {
